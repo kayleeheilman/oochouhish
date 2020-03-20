@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quiesohhee.urzagatherer.app/sitemap.xml
